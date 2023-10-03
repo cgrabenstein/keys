@@ -1,0 +1,19 @@
+{
+    "name": "grabenstein/keys",
+    "description": "An enum for the most commonly used keys.",
+    "license": ["MIT"],
+    "autoload": {
+        "psr-4": {
+            "Grabenstein\\Keys\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christoph Grabenstein",
+            "email": "christoph.grabenstein@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    }
+}
