@@ -45,16 +45,16 @@ enum Key
     case ZERO;
 
     case ARROW_LEFT;
-    case RETURN;
-    case SPACE;
-
-    case BACKSPACE;
-    case DELETE;
-
-    case TAB;
     case ARROW_RIGHT;
     case ARROW_UP;
     case ARROW_DOWN;
+
+    case RETURN;
+    case SPACE;
+    case TAB;
+
+    case BACKSPACE;
+    case DELETE;
 
     case LEFT_SHIFT;
     case RIGHT_SHIFT;
