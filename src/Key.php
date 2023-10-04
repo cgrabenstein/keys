@@ -77,4 +77,6 @@ enum Key
     case F10;
     case F11;
     case F12;
+
+    case UNKNOWN;
 }
